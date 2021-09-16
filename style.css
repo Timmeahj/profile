@@ -1,0 +1,15 @@
+body{
+    background: black;
+}
+
+.container{
+    width: 800px;
+    background: white;
+    margin: 100px auto;
+    padding: 20px;
+}
+
+img{
+    width: calc(100% + 40px);
+    margin-left: -20px;
+}
